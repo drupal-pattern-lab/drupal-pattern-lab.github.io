@@ -18,7 +18,7 @@ Pattern Lab Editions are used if you want just Pattern Lab and/or want to set up
 - [Drupal Edition of Pattern Lab](https://github.com/pattern-lab/edition-php-drupal-standard)
 - [Twig Edition of Pattern Lab](https://github.com/pattern-lab/edition-php-twig-standard)
 
-### Reference
+## Reference
 
 Reference for this is all scattered across several places, these are great starting places:
 
