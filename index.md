@@ -18,6 +18,12 @@ Pattern Lab Editions are used if you want just Pattern Lab and/or want to set up
 - [Drupal Edition of Pattern Lab](https://github.com/pattern-lab/edition-php-drupal-standard)
 - [Twig Edition of Pattern Lab](https://github.com/pattern-lab/edition-php-twig-standard)
 
+## Twig Plugins
+
+Plugins to make Pattern Lab work well with Drupal.
+
+- [Twig Namespaces](https://github.com/EvanLovely/plugin-twig-namespaces)
+
 ## Reference
 
 Reference for this is all scattered across several places, these are great starting places:
