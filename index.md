@@ -9,7 +9,8 @@ There is a lot happening in the Pattern Lab and Drupal 8 integration world. Here
 Popular starting Drupal Theme with Pattern Lab 2 integrated and Gulp tasks already set up are great places to get started and go (ordered by GitHub stars):
 
 - [Pattern Lab Starter](https://github.com/phase2/pattern-lab-starter) by Phase2 & Evan Lovely
-- [Emulsify](https://github.com/fourkitchens/emulsify) by Four Kitchens
+- [Emulsify](http://emulsify.info/) by Four Kitchens
+- [Bear Skin](https://github.com/zivtech/bear_skin/tree/8.x-2.x) by Zivtech
 
 ## Pattern Lab Editions
 
@@ -39,10 +40,11 @@ Reference for this is all scattered across several places, these are great start
 ### Blog posts
 
 - [Making And Maintaining Atomic Design Systems With Pattern Lab 2 – Smashing Magazine](https://www.smashingmagazine.com/2016/07/building-maintaining-atomic-design-systems-pattern-lab/)
+- [Component-Based Theming in Drupal 8: The Video Series](https://www.fourkitchens.com/blog/article/component-based-theming-drupal-8-video-series/)
 
 # Examples
 
-Here are live sites powered by Drupal with Pattern Lab publically available:
+Here are live sites powered by Drupal with Pattern Lab publicly available:
 
 - Weight Watchers - [Pattern Lab](https://www.weightwatchers.com/sites/all/themes/custom/wwvs_bts/pattern-lab/public/) - [Drupal 7 site](https://www.weightwatchers.com) by Phase2
 - Score - [Pattern Lab](https://www.score.org/sites/all/themes/custom/score/dest/pattern-lab/) - [Drupal 7 site](https://www.score.org) by Phase2
