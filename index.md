@@ -32,3 +32,10 @@ Reference for this is all scattered across several places, these are great start
 ### Blog posts
 
 - [Making And Maintaining Atomic Design Systems With Pattern Lab 2 – Smashing Magazine](https://www.smashingmagazine.com/2016/07/building-maintaining-atomic-design-systems-pattern-lab/)
+
+# Examples
+
+Here are live sites powered by Drupal with Pattern Lab publically available:
+
+- Weight Watchers - [Pattern Lab](https://www.weightwatchers.com/sites/all/themes/custom/wwvs_bts/pattern-lab/public/) - [Drupal 7 site](https://www.weightwatchers.com)
+- Score - [Pattern Lab](https://www.score.org/sites/all/themes/custom/score/dest/pattern-lab/) - [Drupal 7 site](https://www.score.org)
