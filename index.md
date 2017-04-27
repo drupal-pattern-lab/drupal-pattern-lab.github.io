@@ -24,6 +24,7 @@ Reference for this is all scattered across several places, these are great start
 
 - [Official Pattern Lab site & docs](http://patternlab.io)
 - Lots of chat is happening on the Drupal Twig Slack group in the pattern-lab channel; [join here](https://drupaltwig-slack.herokuapp.com).
+- [Drupal Lab: example implementation in Drupal](https://github.com/phase2/drupal-lab/tree/master/web/themes/dashing)
 
 ### Presentations
 
