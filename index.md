@@ -37,5 +37,5 @@ Reference for this is all scattered across several places, these are great start
 
 Here are live sites powered by Drupal with Pattern Lab publically available:
 
-- Weight Watchers - [Pattern Lab](https://www.weightwatchers.com/sites/all/themes/custom/wwvs_bts/pattern-lab/public/) - [Drupal 7 site](https://www.weightwatchers.com)
-- Score - [Pattern Lab](https://www.score.org/sites/all/themes/custom/score/dest/pattern-lab/) - [Drupal 7 site](https://www.score.org)
+- Weight Watchers - [Pattern Lab](https://www.weightwatchers.com/sites/all/themes/custom/wwvs_bts/pattern-lab/public/) - [Drupal 7 site](https://www.weightwatchers.com) by Phase2
+- Score - [Pattern Lab](https://www.score.org/sites/all/themes/custom/score/dest/pattern-lab/) - [Drupal 7 site](https://www.score.org) by Phase2
