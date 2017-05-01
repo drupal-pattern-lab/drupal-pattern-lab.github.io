@@ -1,5 +1,4 @@
 ---
-layout: default
 ---
 
 There is a lot happening in the Pattern Lab and Drupal 8 integration world. Here's some starting links to get going:

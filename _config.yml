@@ -68,3 +68,19 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Setting default metadata
+defaults:
+  -
+    scope:
+      path: '' # All files
+      type: pages
+    values:
+      layout: page
+  -
+    scope:
+      path: ''
+      type: posts
+    values:
+      type: post
+      permalink: /blog/:year/:month/:day/:title/
