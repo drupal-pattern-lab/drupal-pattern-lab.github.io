@@ -1,3 +1,9 @@
 <header>
-  <h1>Drupal Pattern Lab</h1>
+  <h1><a href="/">Drupal Pattern Lab</a></h1>
+  <nav>
+    <a href="/">Home</a>
+    {% for page in site.pages %}
+      <a href="{{ page.url }}">{{ page.title }}</a>
+    {% endfor %}
+  </nav>
 </header>

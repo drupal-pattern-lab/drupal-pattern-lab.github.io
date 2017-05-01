@@ -1,2 +1,19 @@
-{% include header.html %}
-{{ content }}
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }}</title>
+    <meta name="description" content="{{ site.description }}">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+  </head>
+  <body>
+    <div class="site">
+      <header class="site__header">
+        {% include header.html %}
+      </header>
+      <div class="site__content">
+        {{ content }}
+      </div>
+    </div>
+  </body>
+</html>

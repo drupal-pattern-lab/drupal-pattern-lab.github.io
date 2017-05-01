@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<article>
+  <header>
+    {% if page.title %}<h2>{{ page.title }}</h2>{% endif %}
+    <ul>
+      {% if page.author %}<li>by {{ page.author }}</li>{% endif %}
+      <li>{{ page.date }}</li>
+    </ul>
+  </header>
+  {{ content }}
+</article>
