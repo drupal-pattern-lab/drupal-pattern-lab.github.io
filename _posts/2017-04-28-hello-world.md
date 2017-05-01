@@ -12,7 +12,7 @@ We hope to improve the existing tools and installations available for working wi
 It's still **very** early in this for us (our GitHub org is about 4 days old); but here's some links to get started:
 
 - We chat in the `#pattern-lab` channel in the [Drupal Twig Slack group](https://drupaltwig-slack.herokuapp.com).
-- Our [roadmap is gettting started here](https://github.com/drupal-pattern-lab/roadmap/projects/1); ask questions and provide feedback that way.
+- Our [roadmap is getting started here](https://github.com/drupal-pattern-lab/roadmap/projects/1): ask questions and provide feedback that way.
 - The [repo for this site is here](https://github.com/drupal-pattern-lab/drupal-pattern-lab.github.io) and all improvements are welcome!
 
 [dcon]: http://baltimore2017.drupal.org
