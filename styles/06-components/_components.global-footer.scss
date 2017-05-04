@@ -1,0 +1,26 @@
+.c-global-footer {
+  padding-top: 2rem;
+  margin-top: 2rem;
+  border-top: solid 1px $hr-border-color;
+
+  @include large {
+    font-size: 1rem;
+  }
+
+  @include medium {
+    font-size: 1rem;
+  }
+
+  @include small {
+    font-size: 0.9rem;
+  }
+}
+
+.c-global-footer__owner {
+  display: block;
+  font-weight: bold;
+}
+
+.c-global-footer__credits {
+  color: $blockquote-text-color;
+}
