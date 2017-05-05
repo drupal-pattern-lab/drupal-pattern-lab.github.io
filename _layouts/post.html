@@ -6,7 +6,7 @@ layout: default
     {% if page.title %}<h2>{{ page.title }}</h2>{% endif %}
     <ul>
       {% if page.author %}<li>by {{ page.author }}</li>{% endif %}
-      <li>{{ page.date }}</li>
+      <li>{{ page.date | date_to_string }}</li>
     </ul>
   </header>
   {{ content }}
