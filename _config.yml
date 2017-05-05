@@ -20,16 +20,16 @@ sass:
   sass_dir: styles
 
 navItems:
-  - blog:
+  -
     text: Blog
     url: /blog
-  - github:
+  -
     text: GitHub Org
     url: https://github.com/drupal-pattern-lab
-  - slack:
+  -
     text: Slack Channel
     url: https://drupaltwig-slack.herokuapp.com
-  - roadmap:
+  -
     text: Roadmap
     url: https://github.com/drupal-pattern-lab/roadmap/projects/1
 
