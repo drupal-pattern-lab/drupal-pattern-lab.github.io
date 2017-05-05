@@ -8,19 +8,30 @@ name: Drupal Pattern Lab
 
 
 # Short bio or description (displayed in the header)
-description: Curated resources on integrating Pattern Lab with Drupal 8.
+description: Curated resources for integrating Pattern Lab with Drupal 8.
 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # avatar: https://raw.githubusercontent.com/drupal-pattern-lab/drupal-pattern-lab.github.io/master/images/drupal-pl-logo--grayscale.png
-#theme: jekyll-theme-midnight
+#theme: jekyll-theme-cayman
 
 
-# Includes an icon in the footer for each username you enter
-#footer-links:
-#  github: drupal-pattern-lab/drupal-pattern-lab.github.io
-#  slack:
-#
+sass:
+  sass_dir: styles
+
+navItems:
+  -
+    text: Blog
+    url: /blog
+  -
+    text: GitHub Org
+    url: https://github.com/drupal-pattern-lab
+  -
+    text: Slack Channel
+    url: https://drupaltwig-slack.herokuapp.com
+  -
+    text: Roadmap
+    url: https://github.com/drupal-pattern-lab/roadmap/projects/1
 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking

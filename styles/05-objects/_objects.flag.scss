@@ -1,0 +1,82 @@
+/* ------------------------------------ *\
+  #FLAG OBJECT
+\* ------------------------------------ */
+
+/** 
+  * Modified version of Harry Roberts' flag object
+  * (http://csswizardry.com/2013/05/the-flag-object/)
+  * 
+  * Similar to the media object. Used to vertically align a fluid-width element
+  * and a fixed-width element next to one another.
+  * 
+  * Usage:
+  * 
+  * <div class="o-flag">
+  *   <div class="o-flag__image">
+  *     <img src="" alt="This element will maintain its width" />
+  *   </div>
+  *   <div class="o-flag__body">
+  *     <p>This element will grow to fill the remaining space</p>
+  *   </div>
+  * </div>
+  * 
+  */
+
+$flag-namespace: "o-flag" !default;
+
+.#{$flag-namespace} {
+    display: table;
+    width: 100%;
+
+    &__image,
+    &__body {
+        display: table-cell;
+        vertical-align: middle;
+
+        // Use the --top modifier to align top edges of the elements
+        .#{$flag-namespace}--top & {
+            vertical-align: top;
+        }
+
+        // Use --bottom to align bottom edges of the elements
+        .#{$flag-namespace}--bottom & {
+            vertical-align: bottom;
+        }
+
+    }
+
+    // This element grows to fill the remainder of its container
+    &__body {
+        width: 100%;
+    }
+  
+  &__image {
+    padding-right: 20px;
+  }
+}
+
+// Flexbox adjustments
+@supports (display: flex) {
+    .#{$flag-namespace} {
+        display: flex;
+        align-items: center;
+
+        &--top {
+            align-items: flex-start;
+        }
+
+        &--bottom {
+            align-items: flex-end;
+        }
+    }
+
+    .#{$flag-namespace}__body,
+    .#{$flag-namespace}__image {
+        display: initial;
+    }
+
+    .#{$flag-namespace}__body {
+        min-width: 0;
+        flex: 1 1 auto;
+    }
+}
