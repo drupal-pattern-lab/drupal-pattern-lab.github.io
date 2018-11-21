@@ -10,6 +10,7 @@ Popular starting Drupal Theme with Pattern Lab 2 integrated and Gulp tasks alrea
 - [Pattern Lab Starter](https://github.com/phase2/pattern-lab-starter) by Phase2 & Evan Lovely
 - [Emulsify](http://emulsify.info/) by Four Kitchens
 - [Bear Skin](https://github.com/zivtech/bear_skin/tree/8.x-2.x) by Zivtech
+- [Gesso](https://github.com/forumone/gesso/tree/8.x-2.x) by Forum One
 
 ## Pattern Lab Editions
 
