@@ -7,9 +7,9 @@ There is a lot happening in the Pattern Lab and Drupal 8 integration world. Here
 
 Popular starting Drupal Theme with Pattern Lab 2 integrated and Gulp tasks already set up are great places to get started and go (ordered by GitHub stars):
 
-- [Pattern Lab Starter](https://github.com/phase2/pattern-lab-starter) by Phase2 & Evan Lovely
+- [Particle](https://github.com/phase2/particle) by Phase2
 - [Emulsify](http://emulsify.info/) by Four Kitchens
-- [Bear Skin](https://github.com/zivtech/bear_skin/tree/8.x-2.x) by Zivtech
+- [Bear Skin (obsolete since 2017)](https://github.com/zivtech/bear_skin) by Zivtech
 
 ## Pattern Lab Editions
 
